@@ -1,0 +1,17 @@
+﻿PromotionKey,EnglishPromotionName,EnglishPromotionType,EnglishPromotionCategory,MinQty,MaxQty
+1,No Discount,No Discount,No Discount,0,NULL
+2,Volume Discount 11 to 14,Volume Discount,Reseller,11,14
+3,Volume Discount 15 to 24,Volume Discount,Reseller,15,24
+4,Volume Discount 25 to 40,Volume Discount,Reseller,25,40
+5,Volume Discount 41 to 60,Volume Discount,Reseller,41,60
+6,Volume Discount over 60,Volume Discount,Reseller,61,NULL
+7,Mountain-100 Clearance Sale,Discontinued Product,Reseller,0,NULL
+8,Sport Helmet Discount-2002,Seasonal Discount,Reseller,0,NULL
+9,Road-650 Overstock,Excess Inventory,Reseller,0,NULL
+10,Mountain Tire Sale,Excess Inventory,Customer,0,NULL
+11,Sport Helmet Discount-2003,Seasonal Discount,Reseller,0,NULL
+12,LL Road Frame Sale,Excess Inventory,Reseller,0,NULL
+13,Touring-3000 Promotion,New Product,Reseller,0,NULL
+14,Touring-1000 Promotion,New Product,Reseller,0,NULL
+15,Half-Price Pedal Sale,Seasonal Discount,Customer,0,NULL
+16,Mountain-500 Silver Clearance Sale,Discontinued Product,Reseller,0,NULL

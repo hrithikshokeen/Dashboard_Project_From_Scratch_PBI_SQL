@@ -1,0 +1,656 @@
+﻿GeographyKey,City,StateProvinceCode,StateProvinceName,EnglishCountryRegionName,SalesTerritoryKey
+1,Alexandria,NSW,New South Wales,Australia,9
+2,Coffs Harbour,NSW,New South Wales,Australia,9
+3,Darlinghurst,NSW,New South Wales,Australia,9
+4,Goulburn,NSW,New South Wales,Australia,9
+5,Lane Cove,NSW,New South Wales,Australia,9
+6,Lavender Bay,NSW,New South Wales,Australia,9
+7,Malabar,NSW,New South Wales,Australia,9
+8,Matraville,NSW,New South Wales,Australia,9
+9,Milsons Point,NSW,New South Wales,Australia,9
+10,Newcastle,NSW,New South Wales,Australia,9
+11,North Ryde,NSW,New South Wales,Australia,9
+12,North Sydney,NSW,New South Wales,Australia,9
+13,Port Macquarie,NSW,New South Wales,Australia,9
+14,Rhodes,NSW,New South Wales,Australia,9
+15,Silverwater,NSW,New South Wales,Australia,9
+16,Springwood,NSW,New South Wales,Australia,9
+17,St. Leonards,NSW,New South Wales,Australia,9
+18,Sydney,NSW,New South Wales,Australia,9
+19,Wollongong,NSW,New South Wales,Australia,9
+20,Brisbane,QLD,Queensland,Australia,9
+21,Caloundra,QLD,Queensland,Australia,9
+22,East Brisbane,QLD,Queensland,Australia,9
+23,Gold Coast,QLD,Queensland,Australia,9
+24,Hawthorne,QLD,Queensland,Australia,9
+25,Hervey Bay,QLD,Queensland,Australia,9
+26,Rockhampton,QLD,Queensland,Australia,9
+27,Townsville,QLD,Queensland,Australia,9
+28,Cloverdale,SA,South Australia,Australia,9
+29,Findon,SA,South Australia,Australia,9
+30,Perth,SA,South Australia,Australia,9
+31,Hobart,TAS,Tasmania,Australia,9
+32,Bendigo,VIC,Victoria,Australia,9
+33,Cranbourne,VIC,Victoria,Australia,9
+34,Geelong,VIC,Victoria,Australia,9
+35,Melbourne,VIC,Victoria,Australia,9
+36,Melton,VIC,Victoria,Australia,9
+37,Seaford,VIC,Victoria,Australia,9
+38,South Melbourne,VIC,Victoria,Australia,9
+39,Sunbury,VIC,Victoria,Australia,9
+40,Warrnambool,VIC,Victoria,Australia,9
+41,Calgary,AB,Alberta,Canada,6
+42,Edmonton,AB,Alberta,Canada,6
+43,Burnaby,BC,British Columbia,Canada,6
+44,Burnaby,BC,British Columbia,Canada,6
+45,Burnaby,BC,British Columbia,Canada,6
+46,Burnaby,BC,British Columbia,Canada,6
+47,Burnaby,BC,British Columbia,Canada,6
+48,Burnaby,BC,British Columbia,Canada,6
+49,Cliffside,BC,British Columbia,Canada,6
+50,Haney,BC,British Columbia,Canada,6
+51,Langford,BC,British Columbia,Canada,6
+52,Langley,BC,British Columbia,Canada,6
+53,Metchosin,BC,British Columbia,Canada,6
+54,N. Vancouver,BC,British Columbia,Canada,6
+55,Newton,BC,British Columbia,Canada,6
+56,Newton,BC,British Columbia,Canada,6
+57,Newton,BC,British Columbia,Canada,6
+58,Newton,BC,British Columbia,Canada,6
+59,Oak Bay,BC,British Columbia,Canada,6
+60,Port Hammond,BC,British Columbia,Canada,6
+61,Richmond,BC,British Columbia,Canada,6
+62,Royal Oak,BC,British Columbia,Canada,6
+63,Shawnee,BC,British Columbia,Canada,6
+64,Shawnee,BC,British Columbia,Canada,6
+65,Shawnee,BC,British Columbia,Canada,6
+66,Sooke,BC,British Columbia,Canada,6
+67,Surrey,BC,British Columbia,Canada,6
+68,Vancouver,BC,British Columbia,Canada,6
+69,Victoria,BC,British Columbia,Canada,6
+70,Westminster,BC,British Columbia,Canada,6
+71,Westminster,BC,British Columbia,Canada,6
+72,Winnipeg,MB,Manitoba,Canada,6
+73,Saint John,NB,Brunswick,Canada,6
+74,Aurora,ON,Ontario,Canada,6
+75,Barrie,ON,Ontario,Canada,6
+76,Brampton,ON,Ontario,Canada,6
+77,Chalk Riber,ON,Ontario,Canada,6
+78,Etobicoke,ON,Ontario,Canada,6
+79,Kanata,ON,Ontario,Canada,6
+80,Kingston,ON,Ontario,Canada,6
+81,Markham,ON,Ontario,Canada,6
+82,Mississauga,ON,Ontario,Canada,6
+83,Mississauga,ON,Ontario,Canada,6
+84,Mississauga,ON,Ontario,Canada,6
+85,Nepean,ON,Ontario,Canada,6
+86,North York,ON,Ontario,Canada,6
+87,Ottawa,ON,Ontario,Canada,6
+88,Ottawa,ON,Ontario,Canada,6
+89,Ottawa,ON,Ontario,Canada,6
+90,Ottawa,ON,Ontario,Canada,6
+91,Richmond Hill,ON,Ontario,Canada,6
+92,Scarborough,ON,Ontario,Canada,6
+93,Toronto,ON,Ontario,Canada,6
+94,Toronto,ON,Ontario,Canada,6
+95,Toronto,ON,Ontario,Canada,6
+96,Toronto,ON,Ontario,Canada,6
+97,Vancouver,ON,Ontario,Canada,6
+98,Waterloo,ON,Ontario,Canada,6
+99,Weston,ON,Ontario,Canada,6
+100,Brossard,QC,Quebec,Canada,6
+101,Brossard,QC,Quebec,Canada,6
+102,Dorval,QC,Quebec,Canada,6
+103,Hull,QC,Quebec,Canada,6
+104,Montreal,QC,Quebec,Canada,6
+105,Montreal,QC,Quebec,Canada,6
+106,Montreal,QC,Quebec,Canada,6
+107,Montreal,QC,Quebec,Canada,6
+108,Outremont,QC,Quebec,Canada,6
+109,Pnot-Rouge,QC,Quebec,Canada,6
+110,Quebec,QC,Quebec,Canada,6
+111,Sainte-Foy,QC,Quebec,Canada,6
+112,Sillery,QC,Quebec,Canada,6
+113,Ville De'anjou,QC,Quebec,Canada,6
+114,Berlin,BB,Brandenburg,Germany,8
+115,Eilenburg,BB,Brandenburg,Germany,8
+116,Augsburg,BY,Bayern,Germany,8
+117,Erlangen,BY,Bayern,Germany,8
+118,Frankfurt,BY,Bayern,Germany,8
+119,Grevenbroich,BY,Bayern,Germany,8
+120,Hof,BY,Bayern,Germany,8
+121,Ingolstadt,BY,Bayern,Germany,8
+122,Bad Soden,HE,Hessen,Germany,8
+123,Berlin,HE,Hessen,Germany,8
+124,Berlin,HE,Hessen,Germany,8
+125,Berlin,HE,Hessen,Germany,8
+126,Berlin,HE,Hessen,Germany,8
+127,Darmstadt,HE,Hessen,Germany,8
+128,Dresden,HE,Hessen,Germany,8
+129,Duesseldorf,HE,Hessen,Germany,8
+130,Duesseldorf,HE,Hessen,Germany,8
+131,Frankfurt,HE,Hessen,Germany,8
+132,Hamburg,HE,Hessen,Germany,8
+133,Kassel,HE,Hessen,Germany,8
+134,München,HE,Hessen,Germany,8
+135,Salzgitter,HE,Hessen,Germany,8
+136,Ascheim,HH,Hamburg,Germany,8
+137,Augsburg,HH,Hamburg,Germany,8
+138,Berlin,HH,Hamburg,Germany,8
+139,Berlin,HH,Hamburg,Germany,8
+140,Berlin,HH,Hamburg,Germany,8
+141,Berlin,HH,Hamburg,Germany,8
+142,Bonn,HH,Hamburg,Germany,8
+143,Bonn,HH,Hamburg,Germany,8
+144,Essen,HH,Hamburg,Germany,8
+145,Frankfurt am Main,HH,Hamburg,Germany,8
+146,Frankfurt am Main,HH,Hamburg,Germany,8
+147,Hamburg,HH,Hamburg,Germany,8
+148,Muehlheim,HH,Hamburg,Germany,8
+149,Mühlheim,HH,Hamburg,Germany,8
+150,München,HH,Hamburg,Germany,8
+151,Paderborn,HH,Hamburg,Germany,8
+152,Berlin,NW,Nordrhein-Westfalen,Germany,8
+153,Berlin,NW,Nordrhein-Westfalen,Germany,8
+154,Bonn,NW,Nordrhein-Westfalen,Germany,8
+155,Bottrop,NW,Nordrhein-Westfalen,Germany,8
+156,Braunschweig,NW,Nordrhein-Westfalen,Germany,8
+157,Hannover,NW,Nordrhein-Westfalen,Germany,8
+158,Leipzig,NW,Nordrhein-Westfalen,Germany,8
+159,München,NW,Nordrhein-Westfalen,Germany,8
+160,Paderborn,NW,Nordrhein-Westfalen,Germany,8
+161,Solingen,NW,Nordrhein-Westfalen,Germany,8
+162,Werne,NW,Nordrhein-Westfalen,Germany,8
+163,Berlin,SL,Saarland,Germany,8
+164,Berlin,SL,Saarland,Germany,8
+165,Berlin,SL,Saarland,Germany,8
+166,Frankfurt am Main,SL,Saarland,Germany,8
+167,Frankfurt am Main,SL,Saarland,Germany,8
+168,Kiel,SL,Saarland,Germany,8
+169,München,SL,Saarland,Germany,8
+170,Münster,SL,Saarland,Germany,8
+171,Neunkirchen,SL,Saarland,Germany,8
+172,Offenbach,SL,Saarland,Germany,8
+173,Poing,SL,Saarland,Germany,8
+174,Saarbrücken,SL,Saarland,Germany,8
+175,Saarlouis,SL,Saarland,Germany,8
+176,Stuttgart,SL,Saarland,Germany,8
+177,Stuttgart,SL,Saarland,Germany,8
+178,Sulzbach Taunus,SL,Saarland,Germany,8
+179,Saint Ouen,17,Charente-Maritime,France,7
+180,Colomiers,31,Garonne (Haute),France,7
+181,Aujan Mournede,32,Gers,France,7
+182,Saint Ouen,41,Loir et Cher,France,7
+183,Orleans,45,Loiret,France,7
+184,Metz,57,Moselle,France,7
+185,Croix,59,Nord,France,7
+186,Dunkerque,59,Nord,France,7
+187,Lille,59,Nord,France,7
+188,Roncq,59,Nord,France,7
+189,Roubaix,59,Nord,France,7
+190,Villeneuve-d'Ascq,59,Nord,France,7
+191,Boulogne-sur-Mer,62,Pas de Calais,France,7
+192,Paris,75,Seine (Paris),France,7
+193,Paris,75,Seine (Paris),France,7
+194,Paris,75,Seine (Paris),France,7
+195,Paris,75,Seine (Paris),France,7
+196,Paris,75,Seine (Paris),France,7
+197,Paris,75,Seine (Paris),France,7
+198,Paris,75,Seine (Paris),France,7
+199,Paris,75,Seine (Paris),France,7
+200,Paris,75,Seine (Paris),France,7
+201,Paris,75,Seine (Paris),France,7
+202,Paris,75,Seine (Paris),France,7
+203,Paris,75,Seine (Paris),France,7
+204,Paris,75,Seine (Paris),France,7
+205,Lieusaint,77,Seine et Marne,France,7
+206,Roissy en Brie,77,Seine et Marne,France,7
+207,Chatou,78,Yveline,France,7
+208,Saint Germain en Laye,78,Yveline,France,7
+209,Versailles,78,Yveline,France,7
+210,Saint Ouen,80,Somme,France,7
+211,Les Ulis,91,Essonne,France,7
+212,Morangis,91,Essonne,France,7
+213,Verrieres Le Buisson,91,Essonne,France,7
+214,Boulogne-Billancourt,92,Hauts de Seine,France,7
+215,Colombes,92,Hauts de Seine,France,7
+216,Courbevoie,92,Hauts de Seine,France,7
+217,Paris La Defense,92,Hauts de Seine,France,7
+218,Sèvres,92,Hauts de Seine,France,7
+219,Suresnes,92,Hauts de Seine,France,7
+220,Bobigny,93,Seine Saint Denis,France,7
+221,Drancy,93,Seine Saint Denis,France,7
+222,Pantin,93,Seine Saint Denis,France,7
+223,Saint-Denis,93,Seine Saint Denis,France,7
+224,Tremblay-en-France,93,Seine Saint Denis,France,7
+225,Orly,94,Val de Marne,France,7
+226,Cergy,95,Val d'Oise,France,7
+227,Abingdon,ENG,England,United Kingdom,10
+228,Basingstoke Hants,ENG,England,United Kingdom,10
+229,Berks,ENG,England,United Kingdom,10
+230,Berkshire,ENG,England,United Kingdom,10
+231,Billericay,ENG,England,United Kingdom,10
+232,Birmingham,ENG,England,United Kingdom,10
+233,Bracknell,ENG,England,United Kingdom,10
+234,Bury,ENG,England,United Kingdom,10
+235,Cambridge,ENG,England,United Kingdom,10
+236,Cheltenham,ENG,England,United Kingdom,10
+237,Esher-Molesey,ENG,England,United Kingdom,10
+238,Gateshead,ENG,England,United Kingdom,10
+239,Gloucestershire,ENG,England,United Kingdom,10
+240,High Wycombe,ENG,England,United Kingdom,10
+241,Kirkby,ENG,England,United Kingdom,10
+242,Lancaster,ENG,England,United Kingdom,10
+243,Leeds,ENG,England,United Kingdom,10
+244,London,ENG,England,United Kingdom,10
+245,London,ENG,England,United Kingdom,10
+246,London,ENG,England,United Kingdom,10
+247,London,ENG,England,United Kingdom,10
+248,London,ENG,England,United Kingdom,10
+249,London,ENG,England,United Kingdom,10
+250,London,ENG,England,United Kingdom,10
+251,London,ENG,England,United Kingdom,10
+252,London,ENG,England,United Kingdom,10
+253,London,ENG,England,United Kingdom,10
+254,London,ENG,England,United Kingdom,10
+255,London,ENG,England,United Kingdom,10
+256,London,ENG,England,United Kingdom,10
+257,London,ENG,England,United Kingdom,10
+258,Maidenhead,ENG,England,United Kingdom,10
+259,Milton Keynes,ENG,England,United Kingdom,10
+260,Milton Keynes,ENG,England,United Kingdom,10
+261,Newcastle upon Tyne,ENG,England,United Kingdom,10
+262,Oxford,ENG,England,United Kingdom,10
+263,Oxford,ENG,England,United Kingdom,10
+264,Oxon,ENG,England,United Kingdom,10
+265,Peterborough,ENG,England,United Kingdom,10
+266,Reading,ENG,England,United Kingdom,10
+267,Runcorn,ENG,England,United Kingdom,10
+268,Liverpool,ENG,England,United Kingdom,10
+269,Stoke-on-Trent,ENG,England,United Kingdom,10
+270,W. York,ENG,England,United Kingdom,10
+271,Warrington,ENG,England,United Kingdom,10
+272,Warrington,ENG,England,United Kingdom,10
+273,Watford,ENG,England,United Kingdom,10
+274,West Sussex,ENG,England,United Kingdom,10
+275,Wokingham,ENG,England,United Kingdom,10
+276,Woolston,ENG,England,United Kingdom,10
+277,York,ENG,England,United Kingdom,10
+278,York,ENG,England,United Kingdom,10
+279,York,ENG,England,United Kingdom,10
+280,Birmingham,AL,Alabama,United States,5
+281,Florence,AL,Alabama,United States,5
+282,Huntsville,AL,Alabama,United States,5
+283,Mobile,AL,Alabama,United States,5
+284,Montgomery,AL,Alabama,United States,5
+285,Chandler,AZ,Arizona,United States,4
+286,Gilbert,AZ,Arizona,United States,4
+287,Mesa,AZ,Arizona,United States,4
+288,Phoenix,AZ,Arizona,United States,4
+289,Scottsdale,AZ,Arizona,United States,4
+290,Surprise,AZ,Arizona,United States,4
+291,Tucson,AZ,Arizona,United States,4
+292,Alhambra,CA,California,United States,4
+293,Alpine,CA,California,United States,4
+294,Auburn,CA,California,United States,4
+295,Baldwin Park,CA,California,United States,4
+296,Barstow,CA,California,United States,4
+297,Bell Gardens,CA,California,United States,4
+298,Bellflower,CA,California,United States,4
+299,Berkeley,CA,California,United States,4
+300,Beverly Hills,CA,California,United States,4
+301,Burbank,CA,California,United States,4
+302,Burlingame,CA,California,United States,4
+303,Camarillo,CA,California,United States,4
+304,Canoga Park,CA,California,United States,4
+305,Carson,CA,California,United States,4
+306,Cerritos,CA,California,United States,4
+307,Chula Vista,CA,California,United States,4
+308,Citrus Heights,CA,California,United States,4
+309,City Of Commerce,CA,California,United States,4
+310,Colma,CA,California,United States,4
+311,Concord,CA,California,United States,4
+312,Coronado,CA,California,United States,4
+313,Culver City,CA,California,United States,4
+314,Daly City,CA,California,United States,4
+315,Downey,CA,California,United States,4
+316,El Cajon,CA,California,United States,4
+317,El Segundo,CA,California,United States,4
+318,Elk Grove,CA,California,United States,4
+319,Escondido,CA,California,United States,4
+320,Eureka,CA,California,United States,4
+321,Fontana,CA,California,United States,4
+322,Fremont,CA,California,United States,4
+323,Fullerton,CA,California,United States,4
+324,Gilroy,CA,California,United States,4
+325,Glendale,CA,California,United States,4
+326,Grossmont,CA,California,United States,4
+327,Hanford,CA,California,United States,4
+328,Hayward,CA,California,United States,4
+329,Imperial Beach,CA,California,United States,4
+330,Irvine,CA,California,United States,4
+331,La Jolla,CA,California,United States,4
+332,La Mesa,CA,California,United States,4
+333,Lake Elsinore,CA,California,United States,4
+334,Lakewood,CA,California,United States,4
+335,Lemon Grove,CA,California,United States,4
+336,Lincoln Acres,CA,California,United States,4
+337,Long Beach,CA,California,United States,4
+338,Los Angeles,CA,California,United States,4
+339,Mill Valley,CA,California,United States,4
+340,Milpitas,CA,California,United States,4
+341,Modesto,CA,California,United States,4
+342,Monrovia,CA,California,United States,4
+343,National City,CA,California,United States,4
+344,Newark,CA,California,United States,4
+345,Newport Beach,CA,California,United States,4
+346,Norwalk,CA,California,United States,4
+347,Novato,CA,California,United States,4
+348,Oakland,CA,California,United States,4
+349,Ontario,CA,California,United States,4
+350,Orange,CA,California,United States,4
+351,Oxnard,CA,California,United States,4
+352,Palo Alto,CA,California,United States,4
+353,Pleasanton,CA,California,United States,4
+354,Redlands,CA,California,United States,4
+355,Redwood City,CA,California,United States,4
+356,Sacramento,CA,California,United States,4
+357,San Bruno,CA,California,United States,4
+358,San Carlos,CA,California,United States,4
+359,San Diego,CA,California,United States,4
+360,San Francisco,CA,California,United States,4
+361,San Gabriel,CA,California,United States,4
+362,San Jose,CA,California,United States,4
+363,San Mateo,CA,California,United States,4
+364,San Ramon,CA,California,United States,4
+365,San Ysidro,CA,California,United States,4
+366,Sand City,CA,California,United States,4
+367,Santa Ana,CA,California,United States,4
+368,Santa Cruz,CA,California,United States,4
+369,Santa Monica,CA,California,United States,4
+370,Sherman Oaks,CA,California,United States,4
+371,Simi Valley,CA,California,United States,4
+372,Spring Valley,CA,California,United States,4
+373,Stockton,CA,California,United States,4
+374,Torrance,CA,California,United States,4
+375,Trabuco Canyon,CA,California,United States,4
+376,Union City,CA,California,United States,4
+377,Upland,CA,California,United States,4
+378,Vacaville,CA,California,United States,4
+379,Van Nuys,CA,California,United States,4
+380,Visalia,CA,California,United States,4
+381,Vista,CA,California,United States,4
+382,Walnut Creek,CA,California,United States,4
+383,West Covina,CA,California,United States,4
+384,Whittier,CA,California,United States,4
+385,Woodland Hills,CA,California,United States,4
+386,Denver,CO,Colorado,United States,3
+387,Englewood,CO,Colorado,United States,3
+388,Greeley,CO,Colorado,United States,3
+389,Longmont,CO,Colorado,United States,3
+390,Loveland,CO,Colorado,United States,3
+391,Parker,CO,Colorado,United States,3
+392,Westminster,CO,Colorado,United States,3
+393,East Haven,CT,Connecticut,United States,2
+394,Farmington,CT,Connecticut,United States,2
+395,Hamden,CT,Connecticut,United States,2
+396,Milford,CT,Connecticut,United States,2
+397,New Haven,CT,Connecticut,United States,2
+398,Stamford,CT,Connecticut,United States,2
+399,Waterbury,CT,Connecticut,United States,2
+400,Westport,CT,Connecticut,United States,2
+401,Altamonte Springs,FL,Florida,United States,5
+402,Bradenton,FL,Florida,United States,5
+403,Clearwater,FL,Florida,United States,5
+404,Destin,FL,Florida,United States,5
+405,Hollywood,FL,Florida,United States,5
+406,Kendall,FL,Florida,United States,5
+407,Lakeland,FL,Florida,United States,5
+408,Merritt Island,FL,Florida,United States,5
+409,Miami,FL,Florida,United States,5
+410,North Miami Beach,FL,Florida,United States,5
+411,Orlando,FL,Florida,United States,5
+412,Sarasota,FL,Florida,United States,5
+413,Sunrise,FL,Florida,United States,5
+414,Tampa,FL,Florida,United States,5
+415,Vero Beach,FL,Florida,United States,5
+416,Atlanta,GA,Georgia,United States,5
+417,Augusta,GA,Georgia,United States,5
+418,Austell,GA,Georgia,United States,5
+419,Byron,GA,Georgia,United States,5
+420,Clarkston,GA,Georgia,United States,5
+421,Columbus,GA,Georgia,United States,5
+422,Decatur,GA,Georgia,United States,5
+423,La Grange,GA,Georgia,United States,5
+424,Marietta,GA,Georgia,United States,5
+425,Mcdonough,GA,Georgia,United States,5
+426,Savannah,GA,Georgia,United States,5
+427,Suwanee,GA,Georgia,United States,5
+428,Idaho Falls,ID,Idaho,United States,1
+429,Lewiston,ID,Idaho,United States,1
+430,Sandpoint,ID,Idaho,United States,1
+431,Carol Stream,IL,Illinois,United States,3
+432,Chicago,IL,Illinois,United States,3
+433,Elgin,IL,Illinois,United States,3
+434,Joliet,IL,Illinois,United States,3
+435,Moline,IL,Illinois,United States,3
+436,Norridge,IL,Illinois,United States,3
+437,Peoria,IL,Illinois,United States,3
+438,Tuscola,IL,Illinois,United States,3
+439,West Chicago,IL,Illinois,United States,3
+440,Wood Dale,IL,Illinois,United States,3
+441,Daleville,IN,Indiana,United States,2
+442,Fort Wayne,IN,Indiana,United States,2
+443,Indianapolis,IN,Indiana,United States,2
+444,Logansport,IN,Indiana,United States,2
+445,Michigan City,IN,Indiana,United States,2
+446,New Castle,IN,Indiana,United States,2
+447,South Bend,IN,Indiana,United States,2
+448,Campbellsville,KY,Kentucky,United States,5
+449,Florence,KY,Kentucky,United States,5
+450,Newport,KY,Kentucky,United States,5
+451,Saint Matthews,KY,Kentucky,United States,5
+452,Somerset,KY,Kentucky,United States,5
+453,Braintree,MA,Massachusetts,United States,2
+454,Norwood,MA,Massachusetts,United States,2
+455,Randolph,MA,Massachusetts,United States,2
+456,Saugus,MA,Massachusetts,United States,2
+457,Wrentham,MA,Massachusetts,United States,2
+458,Baltimore,MD,Maryland,United States,2
+459,Kittery,ME,Maine,United States,2
+460,Detroit,MI,Michigan,United States,3
+461,Holland,MI,Michigan,United States,3
+462,Howell,MI,Michigan,United States,3
+463,Madison Heights,MI,Michigan,United States,3
+464,Midland,MI,Michigan,United States,3
+465,Monroe,MI,Michigan,United States,3
+466,Novi,MI,Michigan,United States,3
+467,Pontiac,MI,Michigan,United States,3
+468,Port Huron,MI,Michigan,United States,3
+469,Redford,MI,Michigan,United States,3
+470,Saginaw,MI,Michigan,United States,3
+471,Southfield,MI,Michigan,United States,3
+472,Southgate,MI,Michigan,United States,3
+473,Westland,MI,Michigan,United States,3
+474,Zeeland,MI,Michigan,United States,3
+475,Branch,MN,Minnesota,United States,3
+476,Duluth,MN,Minnesota,United States,3
+477,Edina,MN,Minnesota,United States,3
+478,Medford,MN,Minnesota,United States,3
+479,Minneapolis,MN,Minnesota,United States,3
+480,Woodbury,MN,Minnesota,United States,3
+481,Branson,MO,Missouri,United States,3
+482,Ferguson,MO,Missouri,United States,3
+483,Jefferson City,MO,Missouri,United States,3
+484,Kansas City,MO,Missouri,United States,3
+485,Odessa,MO,Missouri,United States,3
+486,Saint Ann,MO,Missouri,United States,3
+487,Saint Louis,MO,Missouri,United States,3
+488,Biloxi,MS,Mississippi,United States,5
+489,Gulfport,MS,Mississippi,United States,5
+490,Tupelo,MS,Mississippi,United States,5
+491,Billings,MT,Montana,United States,1
+492,Great Falls,MT,Montana,United States,1
+493,Missoula,MT,Montana,United States,1
+494,Charlotte,NC,North Carolina,United States,5
+495,Greensboro,NC,North Carolina,United States,5
+496,Kannapolis,NC,North Carolina,United States,5
+497,Raleigh,NC,North Carolina,United States,5
+498,Rocky Mount,NC,North Carolina,United States,5
+499,Smithfield,NC,North Carolina,United States,5
+500,Winston-Salem,NC,North Carolina,United States,5
+501,Hooksett,NH,New Hampshire,United States,2
+502,Nashua,NH,New Hampshire,United States,2
+503,Plaistow,NH,New Hampshire,United States,2
+504,Tilton,NH,New Hampshire,United States,2
+505,Las Cruces,NM,New Mexico,United States,4
+506,Rio Rancho,NM,New Mexico,United States,4
+507,Santa Fe,NM,New Mexico,United States,4
+508,Fernley,NV,Nevada,United States,1
+509,Las Vegas,NV,Nevada,United States,1
+510,North Las Vegas,NV,Nevada,United States,1
+511,Reno,NV,Nevada,United States,1
+512,Sparks,NV,Nevada,United States,1
+513,Central Valley,NY,New York,United States,2
+514,Cheektowaga,NY,New York,United States,2
+515,Clay,NY,New York,United States,2
+516,De Witt,NY,New York,United States,2
+517,Endicott,NY,New York,United States,2
+518,Ithaca,NY,New York,United States,2
+519,Lake George,NY,New York,United States,2
+520,Melville,NY,New York,United States,2
+521,New Hartford,NY,New York,United States,2
+522,New York,NY,New York,United States,2
+523,Valley Stream,NY,New York,United States,2
+524,Burbank,OH,Ohio,United States,2
+525,Cincinnati,OH,Ohio,United States,2
+526,Columbus,OH,Ohio,United States,2
+527,Euclid,OH,Ohio,United States,2
+528,Heath,OH,Ohio,United States,2
+529,Holland,OH,Ohio,United States,2
+530,Mansfield,OH,Ohio,United States,2
+531,Mentor,OH,Ohio,United States,2
+532,North Randall,OH,Ohio,United States,2
+533,Oberlin,OH,Ohio,United States,2
+534,Springdale,OH,Ohio,United States,2
+535,Albany,OR,Oregon,United States,1
+536,Beaverton,OR,Oregon,United States,1
+537,Clackamas,OR,Oregon,United States,1
+538,Clackamas,OR,Oregon,United States,1
+539,Corvallis,OR,Oregon,United States,1
+540,Hillsboro,OR,Oregon,United States,1
+541,Klamath Falls,OR,Oregon,United States,1
+542,Lake Oswego,OR,Oregon,United States,1
+543,Lebanon,OR,Oregon,United States,1
+544,Medford,OR,Oregon,United States,1
+545,Milwaukie,OR,Oregon,United States,1
+546,Oregon City,OR,Oregon,United States,1
+547,Portland,OR,Oregon,United States,1
+548,Salem,OR,Oregon,United States,1
+549,Springfield,OR,Oregon,United States,1
+550,Tigard,OR,Oregon,United States,1
+551,Troutdale,OR,Oregon,United States,1
+552,W. Linn,OR,Oregon,United States,1
+553,Woodburn,OR,Oregon,United States,1
+554,Warwick,RI,Rhode Island,United States,2
+555,West Kingston,RI,Rhode Island,United States,2
+556,Woonsocket,RI,Rhode Island,United States,2
+557,Bluffton,SC,South Carolina,United States,5
+558,Gaffney,SC,South Carolina,United States,5
+559,Myrtle Beach,SC,South Carolina,United States,5
+560,Denby,SD,South Dakota,United States,3
+561,North Sioux City,SD,South Dakota,United States,3
+562,Crossville,TN,Tennessee,United States,5
+563,Hixson,TN,Tennessee,United States,5
+564,Kingsport,TN,Tennessee,United States,5
+565,La Vergne,TN,Tennessee,United States,5
+566,Maryville,TN,Tennessee,United States,5
+567,Memphis,TN,Tennessee,United States,5
+568,Millington,TN,Tennessee,United States,5
+569,Nashville,TN,Tennessee,United States,5
+570,Pigeon Forge,TN,Tennessee,United States,5
+571,Arlington,TX,Texas,United States,4
+572,Austin,TX,Texas,United States,4
+573,Baytown,TX,Texas,United States,4
+574,Carrollton,TX,Texas,United States,4
+575,Cedar Park,TX,Texas,United States,4
+576,College Station,TX,Texas,United States,4
+577,Corpus Christi,TX,Texas,United States,4
+578,Dallas,TX,Texas,United States,4
+579,Fort Worth,TX,Texas,United States,4
+580,Garland,TX,Texas,United States,4
+581,Hillsboro,TX,Texas,United States,4
+582,Houston,TX,Texas,United States,4
+583,Humble,TX,Texas,United States,4
+584,Irving,TX,Texas,United States,4
+585,Killeen,TX,Texas,United States,4
+586,La Marque,TX,Texas,United States,4
+587,Laredo,TX,Texas,United States,4
+588,Mesquite,TX,Texas,United States,4
+589,Plano,TX,Texas,United States,4
+590,Round Rock,TX,Texas,United States,4
+591,San Antonio,TX,Texas,United States,4
+592,Stafford,TX,Texas,United States,4
+593,Sugar Land,TX,Texas,United States,4
+594,Bountiful,UT,Utah,United States,1
+595,Cedar City,UT,Utah,United States,1
+596,Ogden,UT,Utah,United States,1
+597,Park City,UT,Utah,United States,1
+598,Riverton,UT,Utah,United States,1
+599,Salt Lake City,UT,Utah,United States,1
+600,Sandy,UT,Utah,United States,1
+601,Tooele,UT,Utah,United States,1
+602,Chantilly,VA,Virginia,United States,5
+603,Falls Church,VA,Virginia,United States,5
+604,Leesburg,VA,Virginia,United States,5
+605,Newport News,VA,Virginia,United States,5
+606,Virginia Beach,VA,Virginia,United States,5
+607,Ballard,WA,Washington,United States,1
+608,Bellevue,WA,Washington,United States,1
+609,Bellingham,WA,Washington,United States,1
+610,Bothell,WA,Washington,United States,1
+611,Bremerton,WA,Washington,United States,1
+612,Burien,WA,Washington,United States,1
+613,Chehalis,WA,Washington,United States,1
+614,Edmonds,WA,Washington,United States,1
+615,Ellensburg,WA,Washington,United States,1
+616,Everett,WA,Washington,United States,1
+617,Federal Way,WA,Washington,United States,1
+618,Issaquah,WA,Washington,United States,1
+619,Kelso,WA,Washington,United States,1
+620,Kenmore,WA,Washington,United States,1
+621,Kennewick,WA,Washington,United States,1
+622,Kent,WA,Washington,United States,1
+623,Kirkland,WA,Washington,United States,1
+624,Lacey,WA,Washington,United States,1
+625,Longview,WA,Washington,United States,1
+626,Lynnwood,WA,Washington,United States,1
+627,Marysville,WA,Washington,United States,1
+628,Monroe,WA,Washington,United States,1
+629,Newport Hills,WA,Washington,United States,1
+630,North Bend,WA,Washington,United States,1
+631,Olympia,WA,Washington,United States,1
+632,Port Orchard,WA,Washington,United States,1
+633,Puyallup,WA,Washington,United States,1
+634,Redmond,WA,Washington,United States,1
+635,Renton,WA,Washington,United States,1
+636,Sammamish,WA,Washington,United States,1
+637,Seattle,WA,Washington,United States,1
+638,Sedro Woolley,WA,Washington,United States,1
+639,Sequim,WA,Washington,United States,1
+640,Shelton,WA,Washington,United States,1
+641,Spokane,WA,Washington,United States,1
+642,Tacoma,WA,Washington,United States,1
+643,Union Gap,WA,Washington,United States,1
+644,Walla Walla,WA,Washington,United States,1
+645,Washougal,WA,Washington,United States,1
+646,Wenatchee,WA,Washington,United States,1
+647,Woodinville,WA,Washington,United States,1
+648,Yakima,WA,Washington,United States,1
+649,Johnson Creek,WI,Wisconsin,United States,3
+650,Milwaukee,WI,Wisconsin,United States,3
+651,Mosinee,WI,Wisconsin,United States,3
+652,Racine,WI,Wisconsin,United States,3
+653,Casper,WY,Wyoming,United States,1
+654,Cheyenne,WY,Wyoming,United States,1
+655,Rock Springs,WY,Wyoming,United States,1
